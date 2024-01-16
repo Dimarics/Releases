@@ -1,5 +1,3 @@
-#windows version: 1.23.12.22
-#linux version: 1.0.0.0
-
-Firmware
-#hobot-d version: 1.0.0.0
+windows app version: 1.23.12.22
+linux app version: 1.0.0.0
+hobot-d firmware version: 1.0.0.0
