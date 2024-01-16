@@ -1,0 +1,12 @@
+#windows
+version: 1.23.12.22
+url: https://downloader.disk.yandex.ru/disk/d5eb11334a53202aa9c468baab4626c6a926140b78cb4a764a037a786582b95d/65a6661f/PiHbCg_TMJSefK-K9a0he7GZxrDZlvZUi-eMBpHSKPpdULjlnGKsak703N34n8P9hon0uP7pL8q1XoXXjF_boA%3D%3D?uid=0&filename=hobots-setup-1.23.12.22.exe&disposition=attachment&hash=xgQ3v/NBKUtMcP//fBy8sMRZdyZ7GGvoMY56t3dCn0QhMNPG8Il6ipJtOq30ADbsq/J6bpmRyOJonT3VoXnDag%3D%3D&limit=0&content_type=application%2Fx-dosexec&owner_uid=1938808400&fsize=61048792&hid=67d831ed95e4839b341814de47206e6e&media_type=executable&tknv=v2
+
+#linux
+version: 1.0.0.0
+url: 
+
+#firmware
+#hobot-d
+version: 1.0.0.0
+url:
