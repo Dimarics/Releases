@@ -1,12 +1,5 @@
-#windows
-version: 1.23.12.22
-url: https://github.com/Dimarics/Releases/releases/download/v1.23.12.22/hobots-setup-1.23.12.22.exe
+#windows version: 1.23.12.22
+#linux version: 1.0.0.0
 
-#linux
-version: 1.0.0.0
-url: 
-
-#firmware
-#hobot-d
-version: 1.0.0.0
-url:
+Firmware
+#hobot-d version: 1.0.0.0
