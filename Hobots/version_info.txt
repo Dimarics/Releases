@@ -1,8 +1,7 @@
 # Приложение
-[Windws]
+[Windows]
 версия: 1.23.12.22
 url: https://github.com/Dimarics/Releases/releases/download/v1.23.12.22/hobots-setup-1.23.12.22.exe"
-[Windows]
 
 [Linux Astra]:
 версия: 1.0.0.0
