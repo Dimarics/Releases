@@ -1,3 +1,13 @@
-ПО для Windows: 1.23.12.22
-ПО для Linux Astra 1.7: 1.0.0.0
-прошивка для Хобот Д: 1.0.0.0
+# Приложение
+[Windows]
+версия: 1.23.12.22
+url: https://github.com/Dimarics/Releases/releases/download/v1.23.12.22/hobots-setup-1.23.12.22.exe"
+
+[Linux Astra]:
+версия: 1.0.0.0
+url: 
+
+# Прошивка
+[Хобот Д]
+версия: 1.0.0.0
+url: 
