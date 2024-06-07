@@ -1,7 +1,7 @@
 # Приложение
 [Windows]
-версия: 1.24.05.30
-ссылка: https://github.com/Dimarics/Releases/releases/download/v1.24.05.30/hobots-setup-1.24.05.30.exe
+версия: 1.24.06.07
+ссылка: https://github.com/Dimarics/Releases/releases/download/v1.24.06.07/hobots-setup-1.24.06.07.exe
 
 [Linux Astra]
 версия: 1.0.0.0
